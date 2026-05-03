@@ -56,6 +56,8 @@ Eres un **desarrollador junior** en el equipo de *PixelHarvest*. Tu trabajo es i
 
 ---
 
+### **Simplemente usa los archivos de aqui para reemplazar los del ejercicio en clase correspondiente**
+
 ### **📌 Ticket 1: Clase `Pollo**`
 
 **Descripción:**  
